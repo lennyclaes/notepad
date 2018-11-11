@@ -1,0 +1,14 @@
+{
+  "name": "notepad",
+  "version": "0.0.1",
+  "description": "A simple text editor",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lenny Claes",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
